@@ -1,0 +1,7 @@
+{
+    "editor.wrappingIndent": "none",
+    "editor.detectIndentation": false,
+    "diffEditor.wordWrap": "off",
+    "debug.console.wordWrap": false,
+    "editor.tabSize": 2
+}
